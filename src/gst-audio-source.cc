@@ -19,7 +19,7 @@
 
 #include <algorithm>
 #include "./gst-audio-source.h"
-#include "stdio.h"
+
 
 namespace kaldi {
 
