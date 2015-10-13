@@ -18,8 +18,8 @@
 // limitations under the License.
 
 #include <algorithm>
-
 #include "./gst-audio-source.h"
+#include "stdio.h"
 
 namespace kaldi {
 
